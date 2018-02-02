@@ -10,6 +10,7 @@ Option 1:
 3. download input.txt into same folder
 3. open theater-testing in command promt and run using java -jar theater-testing.jar
 (update the input.txt if you wann test other scenarios)
+
 Note: Sometimes jar corrupts when download from git then use option 2
 
 Option 2:
