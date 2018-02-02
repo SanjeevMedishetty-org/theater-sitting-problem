@@ -20,12 +20,19 @@ Option 2:
 The output should be for default sample input.
 
 Smith Row 1 Section 1
+
 Jones Row 2 Section 2
+
 Davis Row 1 Section 2
+
 Wilson Sorry, we can't handle your party.
+
 Johnson Row 2 Section 1
+
 Williams Row 1 Section 1
+
 Brown Row 4  Section 2
+
 Miller Call to split party.
  
 
