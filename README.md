@@ -8,7 +8,7 @@ Option 1:
 1. Create some folder say theater-testing
 2. download theater-sitting-problem.jar from https://github.com/SanjeevMedishetty-org/theater-sitting-problem
 3. download input.txt into same folder
-3. open theater-testing in command promt and run using java -jar theater-testing.jar
+3. open theater-testing in command promt and run using java -jar theater-sitting-problem.jar
 (update the input.txt if you wann test other scenarios)
 
 Note: Sometimes jar corrupts when download from git then use option 2
